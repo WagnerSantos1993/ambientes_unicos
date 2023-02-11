@@ -1,0 +1,58 @@
+body{
+   font-family: 'Open Sans', sans-serif;
+}
+
+#topo {
+    position: fixed;
+    top: -20px;
+    left: 350px;
+    color: #ffffff;
+    background-color: blueviolet;
+    width: 700px;
+    height: 50px;
+    text-align: center;  
+    padding: 25px 0px 0px 0px;    
+}
+
+#texto {
+    position: fixed;
+    top: 450px;
+    left: 350px;
+    width: 700px;
+    text-align: center;
+}
+
+h3 {
+    position: fixed;
+    bottom: -30px;
+    left: 350px;
+    color: #ffffff;
+    background-color: blueviolet;
+    width: 700px;
+    height: 50px;
+    text-align: center;  
+    padding: 10px 0px 0px 0px;  
+}
+
+#bolas { 
+    position: fixed;
+    bottom: 180px;
+    left: 635px;
+    text-align: center;
+    width: 80px; 
+}
+
+#personagem {
+    position: fixed;
+    top: 120px;
+    left: 500px;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+}
+
+span {
+    color: orange;
+    font-size: larger;
+    font-family: 'Inter', sans-serif;
+}
